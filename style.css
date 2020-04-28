@@ -29,3 +29,11 @@ figcaption {
   display: block;
   margin: auto;
 }
+
+#details {
+  display: block;
+}
+
+#details div {
+  float: left;
+}
